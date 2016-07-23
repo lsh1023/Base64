@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day38Base64</string>
+    <string name="navigation_open">抽屉打开了</string>
+    <string name="navigation_close">抽屉关闭了</string>
+</resources>

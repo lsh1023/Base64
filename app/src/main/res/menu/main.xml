@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_base64"
+        android:title="Base64"/>
+    <item
+        android:id="@+id/action_url_encode"
+        android:title="URL编码"/>
+    <item
+        android:id="@+id/action_md5"
+        android:title="MD5"/>
+    <item
+        android:id="@+id/action_aes"
+        android:title="对称加密算法"/>
+    <item
+        android:id="@+id/action_rsa"
+        android:title="非对称加密算法"/>
+
+</menu>
